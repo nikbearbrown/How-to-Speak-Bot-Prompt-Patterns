@@ -1,8 +1,6 @@
-# How to Speak Bot: Prompt Patterns
+#  How to Speak Bot: Prompt Patterns
 
-# How to Speak Bot: Prompt Patterns
-
-# Table of Contents for How_to_Speak_Bot
+# Table of Contents for How to Speak Bot: Prompt Patterns
 1. [Introduction](How-to-Speak-Bot-Prompt-Patterns/How_to_Speak_Bot_Chapter_1_Introduction.md)
 2. [The Magical World of Wordsville](How-to-Speak-Bot-Prompt-Patterns/How_to_Speak_Bot_Chapter_2_The_Magical_World_of_Wordsville.md)
 3. [Prompt Engineering](How-to-Speak-Bot-Prompt-Patterns/How_to_Speak_Bot_Chapter_3_Prompt_Engineering.md)
